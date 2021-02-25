@@ -1,4 +1,3 @@
-<title>Toronto Same Day Courier</title>
 <center>
 <div id="content" tabindex="-1">
   <div>
@@ -57,6 +56,7 @@
                   <div data-id="5fc5405" data-element_type="widget" data-widget_type="text-editor.default">
                     <div>
                       <div>
+                        <title>Toronto Same Day Courier</title>
                         <p>You Can Select <strong>Contactless</strong> Pickup and Delivery right from the cart</p>
                       </div>
                     </div>
