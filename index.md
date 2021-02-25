@@ -1,3 +1,4 @@
+<center>
 <div id="content" tabindex="-1">
   <div>
     <div id="primary">
@@ -139,7 +140,7 @@
                           <div>
                             <div>
                               <p>YOU CAN STILL DAIL COURIER BOYS ANYTIME!</p>
-                              <p><a href="tel:(416) 216-6965"><strong>(416) 216-6965</strong></a> <img draggable="false" role="img" alt="😃" src="https://s.w.org/images/core/emoji/13.0.1/svg/1f603.svg"></p>
+                              <p><a href="tel:(416) 216-6965"><strong>(416) 216-6965</strong></a> </p>
                             </div>
                           </div>
                         </div>
@@ -382,3 +383,4 @@
   </div>
   <div><a href="https://courierboys.ca/"><strong>Toronto Same Day Courier</strong></a> - <a href="https://courierboys.ca/">Toronto Same Day Delivery</a>. - <a href="tel:(416) 216-6965">(416) 216-6965</a> - <a href="https://courierboys.ca/">https://courierboys.ca</a></div>
 </div>
+</center>
