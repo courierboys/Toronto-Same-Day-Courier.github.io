@@ -326,7 +326,7 @@
           </div>
         </div>
       </div>
-      <div><a href="https://courierboys.ca/wp-admin/post.php?post=11&action=edit">EditToronto Same Day Courier</a></div>
+      <div><a href="https://courierboys.ca"><strong>Toronto Same Day Courier</strong></a></div>
     </div>
   </div>
 </div>
